@@ -28,7 +28,6 @@ The primary purpose of this project is to demonstrate the implementation of a di
    - [Installation Guide](#installation-guide)
    - [Quick Start](#quick-start)
 7. [Future Work](#future-work)
-8. [License](#license)
 
 ### Component Tree
 
@@ -134,7 +133,7 @@ The Distributed File System (DFS) is designed with a client-server architecture 
 
 **Architecture Diagram:**
 
-![Distributed File System]
+![Distributed File System] https://github.com/SAI-CHARAN-JAKKULA/Distributed-File-Storage-System/blob/main/Distributed%20File%20System.jpeg
 
 **Explanation:**
 
